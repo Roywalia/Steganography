@@ -10,7 +10,7 @@
    * Upload an image with a hidden message, and reveal the message using the "Decode" functionality.
 
 
-## How It Works  
+## How It Works
 ### Encoding Process:
   1. Click the Encode button.
   2. Select an image file (.png, .jpeg, or .jpg).
@@ -23,7 +23,7 @@
   2. Select an image file that contains a hidden message.
   3. The hidden message will be displayed in the text box.
 
-## Installation and Requirements  
+## Installation and Requirements
 ### Prerequisites:
 * Python 3.x
 * Required Libraries:
