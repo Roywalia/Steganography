@@ -8,7 +8,18 @@
    * Save the new image with the hidden message.
 2. Decode Messages from Images
    * Upload an image with a hidden message, and reveal the message using the "Decode" functionality.
- 
+
+
+## How It Works
+### Encoding Process:
+  1. Click the Encode button.
+  2. Select an image file (.png, .jpeg, or .jpg).
+  3. Enter the secret message you want to hide.
+  4. Press Encode.
+  The program will create a new image file with the message embedded.
+
+
+
 ## Requirements
 #### A C compiler (e.g., GCC)
 
