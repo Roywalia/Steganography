@@ -36,30 +36,23 @@
     git clone https://github.com/yourusername/steganography.git
     cd steganography
    ```
-
-
-## Requirements
-#### A C compiler (e.g., GCC)
-
-## How to run
-1. Clone the repository:
-  ```bash
-    git clone https://github.com/yourusername/Arrange-Puzzle-Game.git
-    cd Arrange-Puzzle-Game
-  ```
-
-2. Compile the program:
-  ```bash
-    gcc -o arrange-puzzle-game main.c
-  ```
-
-3. Run the game:
+2. Install the dependencies:
    ```bash
-   ./arrange-puzzle-game
+    pip install pillow
+   ```
+### Running the Application:
+Run the steganography.py file:
+   ```bash
+    python steganography.py
    ```
 
-## Controls
-* `W` - To move the tile down
-* `A` - To move the tile right
-* `S` - To move the tile up
-* `D` - To move the tile left
+
+## Project Structure
+* `steganography.py`: Main application code with GUI and encoding/decoding logic.
+* `README.md`: Documentation for the project.
+
+
+## Technologies Used
+* `Python`: Core programming language.
+* `Pillow`: For image processing.
+* `Tkinter`: For building the graphical user interface.
