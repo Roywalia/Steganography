@@ -27,8 +27,15 @@
 ### Prerequisites:
 * Python 3.x
 * Required Libraries:
-    * Pillow
-    * tkinter
+    * `Pillow`
+    * `tkinter`
+ 
+### Steps to Install:
+1. Clone the repository:
+   ```bash
+    git clone https://github.com/yourusername/steganography.git
+    cd steganography
+   ```
 
 
 ## Requirements
