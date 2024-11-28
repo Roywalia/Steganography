@@ -18,6 +18,17 @@
   4. Press Encode.  
     The program will create a new image file with the message embedded.
 
+### Decoding Process:
+  1. Click the Decode button.
+  2. Select an image file that contains a hidden message.
+  3. The hidden message will be displayed in the text box.
+
+## Installation and Requirements
+### Prerequisites:
+* Python 3.x
+* Required Libraries:
+    * Pillow
+    * tkinter
 
 
 ## Requirements
