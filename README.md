@@ -2,27 +2,12 @@
 #### This project provides a simple Python-based steganography tool that allows users to encode and decode secret messages within image files. It features a graphical user interface (GUI) built with Tkinter
 
 
-
-
-# Arrange-Puzzle-Game
-
-#### This is a C-based implementation of a 4x4 sliding puzzle game where the player can move tiles by pressing the 'w', 'a', 's', 'd' keys and aim to arrange the numbers in order.
-
-## Game Overview
-* The game board is a 4x4 grid, with 15 numbered tiles (1-15) and 1 empty space (represented by 0).
-* The goal is to arrange the tiles in the correct order:
-
-| 15  |  2  |  6  |  9  |
-| --- | --- | --- | --- |
-|  1  |  7  | 11  |  8  |
-| 14  |  3  | 10  | 12  |
-|  5  |  4  | 13  |     |
-
-* The player can move the tiles around the empty space using the following controls:
-  * `W` - To move the tile down
-  * `A` - To move the tile right
-  * `S` - To move the tile up
-  * `D` - To move the tile left
+## Features
+1 Encode Messages in Images
+   * Upload an image, type a secret message, and embed it into the image using the "Encode" functionality.
+   * Save the new image with the hidden message.
+2 Decode Messages from Images
+   * Upload an image with a hidden message, and reveal the message using the "Decode" functionality.
  
 ## Requirements
 #### A C compiler (e.g., GCC)
