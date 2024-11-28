@@ -16,7 +16,7 @@
   2. Select an image file (.png, .jpeg, or .jpg).
   3. Enter the secret message you want to hide.
   4. Press Encode.
-  The program will create a new image file with the message embedded.
+    The program will create a new image file with the message embedded.
 
 
 
