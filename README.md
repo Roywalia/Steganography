@@ -3,10 +3,10 @@
 
 
 ## Features
-1 Encode Messages in Images
+1. Encode Messages in Images
    * Upload an image, type a secret message, and embed it into the image using the "Encode" functionality.
    * Save the new image with the hidden message.
-2 Decode Messages from Images
+2. Decode Messages from Images
    * Upload an image with a hidden message, and reveal the message using the "Decode" functionality.
  
 ## Requirements
